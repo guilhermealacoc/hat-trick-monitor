@@ -1,0 +1,22 @@
+{
+  "name": "hat-trick-monitor",
+  "version": "1.0.0",
+  "description": "A scrapper bot for hat tricks moments in sports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermealacoc/hat-trick-monitor.git"
+  },
+  "keywords": [
+    "hat-trick"
+  ],
+  "author": "Guilherme de Alacoc\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Ce Alacoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermealacoc/hat-trick-monitor/issues"
+  },
+  "homepage": "https://github.com/guilhermealacoc/hat-trick-monitor#readme"
+}
